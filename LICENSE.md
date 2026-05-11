@@ -1,4 +1,4 @@
-#  
+#  custom Bear for macOS Script | markdown support + multi-device sync is the best Bear for macOS script, featuring markdown support and multi-device sync. Safe, efficient, and
 
 
 
